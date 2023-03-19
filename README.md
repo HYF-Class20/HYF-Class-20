@@ -1,6 +1,6 @@
 <!-- BEGIN TOP -->
 
-# Home: Lab Brussels 1
+# Home: Class-20-Antwerpen
 
 > <details>
 > <summary>Tech Support</summary>
