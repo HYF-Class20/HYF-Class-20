@@ -11,7 +11,6 @@
 
 - [Class Calendar](./assets/calendar.png)
 - [Study Board](https://github.com/orgs/HYF-Class20/projects/1/views/1)
-- [Discord](https://discord.com/channels/894607053367181402/)
 - People
   - [Learners](#learners) -
     [Randomizer](https://hyf-class20.github.io/home/randomizer)
