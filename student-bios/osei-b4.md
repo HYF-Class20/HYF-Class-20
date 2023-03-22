@@ -32,4 +32,4 @@ experience. I am ready to acquire the knowledge. I am very passionate about
 
    [Github]https://github.com/Osei-b4
 
-![Eben photo](./img/ebenphoto.JPG)
+   ![eben picture](./img/ebenezer%20picture.jpg)
