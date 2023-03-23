@@ -5,4 +5,4 @@ in this developer course! I've always been interested in technology and how it
 can make our lives easier. I don't have any experience in programming. I'm
 looking forward to learning more and working with all of you!
 
-![](img/betulsnckk.jpg)
+![the picture of lines](img/betulsnckk.jpg)
