@@ -1,4 +1,4 @@
-# <INS> Introduction </ins>
+# Introduction
 
 Ebenezer Osei Biney is my name. I am from Ghana in west africa and i live in
 Belgium with my family. _I am very excited to be part of **HACK YOUR FUTUER**
@@ -9,20 +9,20 @@ explore more skills. I know I am self-motivated and I am always look forward to
 experience. I am ready to acquire the knowledge. I am very passionate about
 **IT** really want do more._
 
-# Things i like to do in my free time
+## Things i like to do in my free time
 
 - Listering to music
 - Watching good movies,series and football
 - Playing america football
 - Playing football
 
-# My Achievemants
+### My Achievemants
 
 - 👨‍🎓I'm looking forward in collaborate in group project.
 - 💻 I want learn more about git and github commands
 - 🐱‍👤 I want to become a ninja in the developer world
 
-# About me
+### About me
 
 1. I am an easy giong person
 2. I belive in **HONOUR,RESPECT and being TRUSTWORTHY**.
