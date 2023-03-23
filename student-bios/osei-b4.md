@@ -9,7 +9,7 @@ explore more skills. I know I am self-motivated and I am always look forward to
 experience. I am ready to acquire the knowledge. I am very passionate about
 **IT** really want do more._
 
-# Things i like to do in my free time:
+# Things i like to do in my free time
 
 - Listering to music
 - Watching good movies,series and football
@@ -30,6 +30,6 @@ experience. I am ready to acquire the knowledge. I am very passionate about
    How you can reach me
    :[linkedin](https://www.linkedin.com/in/osei-biney-3a7034266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWEICIui1StW7btYhPyv3NA%3D%3D)
 
-   [Github]https://github.com/Osei-b4
+   [Github]<https://github.com/Osei-b4>
 
    ![eben picture](./img/ebenezer%20picture.jpg)
