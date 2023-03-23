@@ -43,7 +43,7 @@ Practice your CSS
 - [the CSS diner](https://flukeout.github.io/#)
 - learn flexbox
   - [flexbox froggy](https://flexboxfroggy.com/)
-  - [flexbox advneture](https://codingfantasy.com/games/flexboxadventure)
+  - [flexbox adventure](https://codingfantasy.com/games/flexboxadventure)
   - [grid garden](https://cssgridgarden.com/)
   - [flexbox defense](http://www.flexboxdefense.com/)
   - [flexbox zombies](https://mastery.games/p/flexbox-zombies)
