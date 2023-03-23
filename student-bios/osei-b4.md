@@ -20,7 +20,7 @@ experience. I am ready to acquire the knowledge. I am very passionate about
 
 - 👨‍🎓I'm looking forward in collaborate in group project.
 - 💻 I want learn more about git and github commands
-- 🐱‍👤 I want to become ninja in the developer world
+- 🐱‍👤 I want to become a ninja in the developer world
 
 # About me
 
