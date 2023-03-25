@@ -20,11 +20,11 @@ by following tutorials on [youtube](https://www.youtube.com/)
 
 - Cabin Crew Member at Iraqi airways (2011-2014)
 
-- Baker in multiply companies (2015-present day)
+- Baker in multiply companies (2015-present )
 
 ## Languages
 
-- English: fluent
+- English: fluents
 - French: fluent
 - Dutch: studied till 2.3
 - Arabic: native language
