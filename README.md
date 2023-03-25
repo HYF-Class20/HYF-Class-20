@@ -479,6 +479,20 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
+| <img src="./admin/assets/avatars/tesfatsi.png" height="200px" width="200px" alt="tesfatsi avatar" /> | <h3 id="tesfatsi">Tesfatsi</h3><br>[tesfatsi](https://github.com/tesfatsi) \| [home page](https://tesfatsi.github.io) \| [bio](./student-bios/tesfatsi.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3Atesfatsi+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3Atesfatsi+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3Atesfatsi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3Atesfatsi) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3Atesfatsi) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3Atesfatsi) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3Atesfatsi) |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Tesfatsi's github stats</summary>
+<br>
+
+![tesfatsi github activity](https://ghchart.rshah.org/tesfatsi)
+
+![tesfatsi github stats](https://github-readme-stats.vercel.app/api?username=tesfatsi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
 ---
 
 <!-- END LEARNERS -->
