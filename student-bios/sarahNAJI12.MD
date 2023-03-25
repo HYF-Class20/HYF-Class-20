@@ -1,5 +1,5 @@
-## **Hi everyone** ##
-![my picture](../assets/WhatsApp%20Image%202023-03-24%20at%2017.19.44.jpeg)
+# Hi 👋 everyone 
+![my picture](../student-bios/img/WhatsApp%20Image%202023-03-24%20at%2017.19.44.jpeg)
 
 # Introduction 
 
