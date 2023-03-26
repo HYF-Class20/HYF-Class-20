@@ -283,6 +283,34 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
+| <img src="./admin/assets/avatars/andykeshishian.png" height="200px" width="200px" alt="andykeshishian avatar" /> | <h3 id="andykeshishian">Andy</h3><br>[andykeshishian](https://github.com/andykeshishian) \| [home page](https://andykeshishian.github.io) \| [bio](./student-bios/andykeshishian.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3Aandykeshishian+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3Aandykeshishian+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3Aandykeshishian+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3Aandykeshishian) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3Aandykeshishian) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3Aandykeshishian) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3Aandykeshishian) |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Andy's github stats</summary>
+<br>
+
+![andykeshishian github activity](https://ghchart.rshah.org/andykeshishian)
+
+![andykeshishian github stats](https://github-readme-stats.vercel.app/api?username=andykeshishian&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/andreia-negreira.png" height="200px" width="200px" alt="andreia-negreira avatar" /> | <h3 id="andreia-negreira">Andreia</h3><br>[andreia-negreira](https://github.com/andreia-negreira) \| [home page](https://andreia-negreira.github.io) \| [bio](./student-bios/andreia-negreira.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3Aandreia-negreira+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3Aandreia-negreira+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3Aandreia-negreira+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3Aandreia-negreira) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3Aandreia-negreira) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3Aandreia-negreira) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3Aandreia-negreira) |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Andreia's github stats</summary>
+<br>
+
+![andreia-negreira github activity](https://ghchart.rshah.org/andreia-negreira)
+
+![andreia-negreira github stats](https://github-readme-stats.vercel.app/api?username=andreia-negreira&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
 | <img src="./admin/assets/avatars/betulsancak.png" height="200px" width="200px" alt="betulsancak avatar" /> | <h3 id="betulsancak">Betul</h3><br>[betulsancak](https://github.com/betulsancak) \| [home page](https://betulsancak.github.io) \| [bio](./student-bios/betulsancak.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3Abetulsancak+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3Abetulsancak+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3Abetulsancak+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3Abetulsancak) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3Abetulsancak) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3Abetulsancak) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3Abetulsancak) |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
@@ -409,6 +437,20 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
+| <img src="./admin/assets/avatars/MohammadWarisSharafzay.png" height="200px" width="200px" alt="MohammadWarisSharafzay avatar" /> | <h3 id="MohammadWarisSharafzay">Mohammad</h3><br>[MohammadWarisSharafzay](https://github.com/MohammadWarisSharafzay) \| [home page](https://MohammadWarisSharafzay.github.io) \| [bio](./student-bios/MohammadWarisSharafzay.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3AMohammadWarisSharafzay+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3AMohammadWarisSharafzay+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3AMohammadWarisSharafzay+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3AMohammadWarisSharafzay) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3AMohammadWarisSharafzay) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3AMohammadWarisSharafzay) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3AMohammadWarisSharafzay) |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Mohammad's github stats</summary>
+<br>
+
+![MohammadWarisSharafzay github activity](https://ghchart.rshah.org/MohammadWarisSharafzay)
+
+![MohammadWarisSharafzay github stats](https://github-readme-stats.vercel.app/api?username=MohammadWarisSharafzay&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
 | <img src="./admin/assets/avatars/Mouhamed-Alshlash.png" height="200px" width="200px" alt="Mouhamed-Alshlash avatar" /> | <h3 id="Mouhamed-Alshlash">Mouhamed</h3><br>[Mouhamed-Alshlash](https://github.com/Mouhamed-Alshlash) \| [home page](https://Mouhamed-Alshlash.github.io) \| [bio](./student-bios/Mouhamed-Alshlash.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3AMouhamed-Alshlash+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3AMouhamed-Alshlash+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3AMouhamed-Alshlash+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3AMouhamed-Alshlash) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3AMouhamed-Alshlash) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3AMouhamed-Alshlash) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3AMouhamed-Alshlash) |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
@@ -465,6 +507,20 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
+| <img src="./admin/assets/avatars/saidakf.png" height="200px" width="200px" alt="saidakf avatar" /> | <h3 id="saidakf">Saida</h3><br>[saidakf](https://github.com/saidakf) \| [home page](https://saidakf.github.io) \| [bio](./student-bios/saidakf.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3Asaidakf+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3Asaidakf+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3Asaidakf+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3Asaidakf) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3Asaidakf) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3Asaidakf) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3Asaidakf) |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Saida's github stats</summary>
+<br>
+
+![saidakf github activity](https://ghchart.rshah.org/saidakf)
+
+![saidakf github stats](https://github-readme-stats.vercel.app/api?username=saidakf&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
 | <img src="./admin/assets/avatars/SarahNaji12.png" height="200px" width="200px" alt="SarahNaji12 avatar" /> | <h3 id="SarahNaji12">Sarah</h3><br>[SarahNaji12](https://github.com/SarahNaji12) \| [home page](https://SarahNaji12.github.io) \| [bio](./student-bios/SarahNaji12.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3ASarahNaji12+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3ASarahNaji12+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3ASarahNaji12+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3ASarahNaji12) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3ASarahNaji12) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3ASarahNaji12) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3ASarahNaji12) |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
@@ -475,6 +531,48 @@ real-world problem they face, then deliver a web app to meet their needs.
 ![SarahNaji12 github activity](https://ghchart.rshah.org/SarahNaji12)
 
 ![SarahNaji12 github stats](https://github-readme-stats.vercel.app/api?username=SarahNaji12&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/R-Simonov.png" height="200px" width="200px" alt="R-Simonov avatar" /> | <h3 id="R-Simonov">Simonov</h3><br>[R-Simonov](https://github.com/R-Simonov) \| [home page](https://R-Simonov.github.io) \| [bio](./student-bios/R-Simonov.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3AR-Simonov+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3AR-Simonov+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3AR-Simonov+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3AR-Simonov) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3AR-Simonov) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3AR-Simonov) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3AR-Simonov) |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Simonov's github stats</summary>
+<br>
+
+![R-Simonov github activity](https://ghchart.rshah.org/R-Simonov)
+
+![R-Simonov github stats](https://github-readme-stats.vercel.app/api?username=R-Simonov&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/C-Starry.png" height="200px" width="200px" alt="C-Starry avatar" /> | <h3 id="C-Starry">Starry</h3><br>[C-Starry](https://github.com/C-Starry) \| [home page](https://C-Starry.github.io) \| [bio](./student-bios/C-Starry.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3AC-Starry+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3AC-Starry+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3AC-Starry+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3AC-Starry) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3AC-Starry) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3AC-Starry) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3AC-Starry) |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Starry's github stats</summary>
+<br>
+
+![C-Starry github activity](https://ghchart.rshah.org/C-Starry)
+
+![C-Starry github stats](https://github-readme-stats.vercel.app/api?username=C-Starry&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Takang03.png" height="200px" width="200px" alt="Takang03 avatar" /> | <h3 id="Takang03">Takang</h3><br>[Takang03](https://github.com/Takang03) \| [home page](https://Takang03.github.io) \| [bio](./student-bios/Takang03.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3ATakang03+label%3Acheck-in) \| [deliverables](https://github.com/HYF-class20/home/projects/1?card_filter_query=assignee%3ATakang03+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3ATakang03+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3ATakang03) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3ATakang03) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3ATakang03) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3ATakang03) |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Takang's github stats</summary>
+<br>
+
+![Takang03 github activity](https://ghchart.rshah.org/Takang03)
+
+![Takang03 github stats](https://github-readme-stats.vercel.app/api?username=Takang03&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">

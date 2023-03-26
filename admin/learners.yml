@@ -1,5 +1,9 @@
 - name: Amanuel
   user: amanuel-zemikael
+- name: Andy
+  user: andykeshishian
+- name: Andreia
+  user: andreia-negreira
 - name: Betul
   user: betulsancak
 - name: Biniam
@@ -18,6 +22,8 @@
   user: Ibrahim86Ali
 - name: Jean Paul
   user: jeanpauliradukunda
+- name: Mohammad
+  user: MohammadWarisSharafzay
 - name: Mouhamed
   user: Mouhamed-Alshlash
 - name: Nana
@@ -26,7 +32,15 @@
   user: Nursen2127
 - name: Osei
   user: Osei-b4
+- name: Saida
+  user: saidakf
 - name: Sarah
   user: SarahNaji12
+- name: Simonov
+  user: R-Simonov
+- name: Starry
+  user: C-Starry
+- name: Takang
+  user: Takang03
 - name: Tesfatsi
   user: tesfatsi
