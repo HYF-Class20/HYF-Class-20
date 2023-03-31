@@ -1,6 +1,5 @@
 # Hi 👋, I'm Amanuel Zemikael
 
-![alt text!](./img/Snapchat-781359949.jpg)
 
 ## A passionate code and coding student from Eritrea
 
