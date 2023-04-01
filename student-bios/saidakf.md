@@ -1,6 +1,6 @@
 # Saida
 
-## Get to know me ::smile
+## Get to know me  :smile:
 
 Hello everyone, my name is Saida and I am excited to have the opportunity to
 share a bit about myself with you today. I am 25 years old and originally from
