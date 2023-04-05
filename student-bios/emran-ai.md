@@ -13,4 +13,4 @@ big fan of hiking and spending time in nature.
 I'm looking forward to getting to know all of you and collaborating on exciting
 projects together!
 
-![my picture](../student-bios/image/pic.JPG)
+![my picture](./img/pic.JPG)
