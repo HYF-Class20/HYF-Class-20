@@ -1,7 +1,7 @@
 # Introduction
 
 MY name is **Andy Keshishian**. im 29 years old currently student in **hyF**
-![andy](KESHISHIANANDY.jpg)
+![ANDY](./img/KESHISHIANANDY.JPG)
 
 ## **languages that is can speak**
 
