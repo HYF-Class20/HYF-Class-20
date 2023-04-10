@@ -30,6 +30,6 @@ experience. I am ready to acquire the knowledge. I am very passionate about
    How you can reach me
    :[linkedin](https://www.linkedin.com/in/osei-biney-3a7034266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWEICIui1StW7btYhPyv3NA%3D%3D)
 
-   [Github]<https://github.com/Osei-b4>
+   [Github](<https://github.com/Osei-b4>)
 
    ![eben picture](./img/ebenezer%20picture.jpg)
