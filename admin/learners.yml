@@ -1,7 +1,5 @@
 - name: Amanuel
   user: amanuel-zemikael
-- name: Andreia
-  user: andreia-negreira
 - name: Andy
   user: andykeshishian
 - name: Biniam
@@ -12,18 +10,12 @@
   user: Osei-b4
 - name: Emran
   user: emran-ai
-- name: Gabriella
-  user: GabriellaLohy
-- name: Gopi
-  user: Gopiben
 - name: Herbert
   user: HerbertHomolka1
 - name: Ibrahim
   user: Ibrahim86Ali
 - name: Mohammad Waris
   user: MohammadWarisSharafzay
-- name: Mouhamed Alshlash
-  user: Mouhamed-Alshlash
 - name: Nana
   user: Nana99999
 - name: Nursen
@@ -34,13 +26,7 @@
   user: saidakf
 - name: Sarah
   user: SarahNaji12
-- name: Starry
-  user: C-Starry
 - name: Radimir
   user: R-Simonov
 - name: Takang
   user: Takang03
-- name: Tesfatsi
-  user: tesfatsi
-- name: Hidayet
-  user: HidayetKanpolat
