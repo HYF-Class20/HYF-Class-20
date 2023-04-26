@@ -351,34 +351,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/GabriellaLohy.png" height="200px" width="200px" alt="GabriellaLohy avatar" /> | <h3 id="GabriellaLohy">Gabriella</h3><br>[GabriellaLohy](https://github.com/GabriellaLohy) \| [home page](https://GabriellaLohy.github.io) \| [bio](./student-bios/GabriellaLohy.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3AGabriellaLohy+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class20/projects/1?filterQuery=assignee%3AGabriellaLohy+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3AGabriellaLohy+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3AGabriellaLohy) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3AGabriellaLohy) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3AGabriellaLohy) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3AGabriellaLohy) |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Gabriella's github stats</summary>
-<br>
-
-![GabriellaLohy github activity](https://ghchart.rshah.org/GabriellaLohy)
-
-![GabriellaLohy github stats](https://github-readme-stats.vercel.app/api?username=GabriellaLohy&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/Gopiben.png" height="200px" width="200px" alt="Gopiben avatar" /> | <h3 id="Gopiben">Gopi</h3><br>[Gopiben](https://github.com/Gopiben) \| [home page](https://Gopiben.github.io) \| [bio](./student-bios/Gopiben.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3AGopiben+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class20/projects/1?filterQuery=assignee%3AGopiben+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3AGopiben+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3AGopiben) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3AGopiben) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3AGopiben) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3AGopiben) |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Gopi's github stats</summary>
-<br>
-
-![Gopiben github activity](https://ghchart.rshah.org/Gopiben)
-
-![Gopiben github stats](https://github-readme-stats.vercel.app/api?username=Gopiben&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
 | <img src="./admin/assets/avatars/HerbertHomolka1.png" height="200px" width="200px" alt="HerbertHomolka1 avatar" /> | <h3 id="HerbertHomolka1">Herbert</h3><br>[HerbertHomolka1](https://github.com/HerbertHomolka1) \| [home page](https://HerbertHomolka1.github.io) \| [bio](./student-bios/HerbertHomolka1.md)<br>[check-ins](https://github.com/HYF-class20/home/issues/?q=assignee%3AHerbertHomolka1+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class20/projects/1?filterQuery=assignee%3AHerbertHomolka1+label%3Adeliverable) \| [retros](https://github.com/HYF-class20/home/issues/?q=assignee%3AHerbertHomolka1+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class20/home/issues?q=author%3AHerbertHomolka1) \| [assigned](https://github.com/HYF-class20/home/issues?q=assignee%3AHerbertHomolka1) \| [commented](https://github.com/HYF-class20/home/issues?q=commenter%3AHerbertHomolka1) \| [mentioned](https://github.com/HYF-class20/home/issues?q=mentions%3AHerbertHomolka1) |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
